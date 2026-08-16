@@ -1,5 +1,10 @@
 ## Hi, I'm Aliqulov Jaloliddin
 
+###
+
+<h5 align="center">Python Backend Dev</h5>
+
+###
 
 <div data-importer="techs" align="left">
   <!-- Linux -->
@@ -50,3 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
        height="40" alt="redis logo" />
 </div>
+
+### 🐍 GitHub Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliqulov333/aliqulov333/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aliqulov333/aliqulov333/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/aliqulov333/aliqulov333/output/github-snake.svg">
+</picture>
