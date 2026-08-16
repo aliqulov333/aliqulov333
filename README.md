@@ -56,7 +56,7 @@
        height="40" alt="redis logo" />
 </div>
 
-### 🐍 GitHub Contributions
+### 🐍 GitHub
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aliqulov333/aliqulov333/output/github-snake-dark.svg">
