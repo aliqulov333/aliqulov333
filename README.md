@@ -1,4 +1,4 @@
-## Hi, I'm Aliqulov Jaloliddin
+## Hi, I'm Jaloliddin Aliqulov
 
 ###
 
